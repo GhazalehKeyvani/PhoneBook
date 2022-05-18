@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SklelxYKS+TV4ZDP0heglVJj4GuBeFT5uSoEepDzI4lUqgiMUzwzZ/AwFmRIOzwfFKuvfwZUP6rKUjOjeFdDmQ==",
+  "success": true,
+  "projectFilePath": "D:\\ghazaleh\\Phone_book - Copy\\Phone_Book.Common\\Phone_Book.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghkey\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.11\\microsoft.aspnetcore.http.features.5.0.11.nupkg.sha512",
+    "C:\\Users\\ghkey\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ghkey\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

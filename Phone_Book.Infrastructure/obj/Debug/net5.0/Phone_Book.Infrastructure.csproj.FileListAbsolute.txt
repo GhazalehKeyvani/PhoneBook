@@ -1,0 +1,35 @@
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.deps.json
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.dll
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\bin\Debug\net5.0\ref\Phone_Book.Infrastructure.dll
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.pdb
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.AssemblyInfoInputs.cache
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.AssemblyInfo.cs
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.csproj.CoreCompileInputs.cache
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.dll
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\ref\Phone_Book.Infrastructure.dll
+E:\source\repos\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.pdb
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.deps.json
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.dll
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\bin\Debug\net5.0\ref\Phone_Book.Infrastructure.dll
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.pdb
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.AssemblyInfo.cs
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.dll
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\ref\Phone_Book.Infrastructure.dll
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.pdb
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.deps.json
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.dll
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\bin\Debug\net5.0\ref\Phone_Book.Infrastructure.dll
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\bin\Debug\net5.0\Phone_Book.Infrastructure.pdb
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.csproj.AssemblyReference.cache
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.AssemblyInfoInputs.cache
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.AssemblyInfo.cs
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.dll
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\obj\Debug\net5.0\ref\Phone_Book.Infrastructure.dll
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Infrastructure\obj\Debug\net5.0\Phone_Book.Infrastructure.pdb

@@ -1,0 +1,36 @@
+E:\source\repos\Phone_book\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.deps.json
+E:\source\repos\Phone_book\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.dll
+E:\source\repos\Phone_book\Phone_Book.Common\bin\Debug\net5.0\ref\Phone_Book.Common.dll
+E:\source\repos\Phone_book\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.pdb
+E:\source\repos\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.csproj.AssemblyReference.cache
+E:\source\repos\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.AssemblyInfoInputs.cache
+E:\source\repos\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.AssemblyInfo.cs
+E:\source\repos\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.csproj.CoreCompileInputs.cache
+E:\source\repos\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.dll
+E:\source\repos\Phone_book\Phone_Book.Common\obj\Debug\net5.0\ref\Phone_Book.Common.dll
+E:\source\repos\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.pdb
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.deps.json
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.dll
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\bin\Debug\net5.0\ref\Phone_Book.Common.dll
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.pdb
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.csproj.AssemblyReference.cache
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.AssemblyInfoInputs.cache
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.AssemblyInfo.cs
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.csproj.CoreCompileInputs.cache
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.dll
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\obj\Debug\net5.0\ref\Phone_Book.Common.dll
+C:\Users\ghkey\OneDrive\دسکتاپ\Phone_book\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.pdb
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.deps.json
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.dll
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\bin\Debug\net5.0\ref\Phone_Book.Common.dll
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\bin\Debug\net5.0\Phone_Book.Common.pdb
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.csproj.AssemblyReference.cache
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.AssemblyInfoInputs.cache
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.AssemblyInfo.cs
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.csproj.CoreCompileInputs.cache
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.dll
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\obj\Debug\net5.0\ref\Phone_Book.Common.dll
+D:\ghazaleh\Phone_book - Copy\Phone_Book.Common\obj\Debug\net5.0\Phone_Book.Common.pdb

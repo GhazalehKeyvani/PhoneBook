@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.6.0/flatly/bootstrap.min.css">
+    <title>Bootstrap Compatible Form Validator Examples</title>
+</head>
+<body style="background-color:#fafafa">
+    <div id="jquery-script-menu">
+<div class="jquery-script-center">
+<ul>
+<li><a href="https://www.jqueryscript.net/form/bootstrap-compatible-validator.html">Download This Plugin</a></li>
+<li><a href="https://www.jqueryscript.net/">Back To jQueryScript.Net</a></li>
+</ul><div id="carbon-block"></div>
+<div class="jquery-script-ads"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="jquery-script-clear"></div>
+</div>
+</div>
+    <div class="container" style="margin:150px auto">
+        <h1>Bootstrap Compatible Form Validator Examples</h1>
+        <p class="lead">An easy, dynamic, extensible jQuery form validation plugin that uses Bootstrap form validation classes (or your own CSS classes) to highlight invalid form fields and display custom error messages.</p>
+        <div class="form-group">
+            <label class="col-form-label">Required</label>
+            <input type="text" id="req1" name="req1" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">Digit</label>
+            <input type="text" id="req2" name="req2" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">Length = 3</label>
+            <input type="text" id="req3" name="req3" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">From 3</label>
+            <input type="text" id="req4" name="req4" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">To 3</label>
+            <input type="text" id="req5" name="req5" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">Range: [5, 10]</label>
+            <input type="text" id="req6" name="req6" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">Email</label>
+            <input type="text" id="req7" name="req7" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">Phone</label>
+            <input type="text" id="req8" name="req8" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">Compare: 'test'</label>
+            <input type="text" id="req9" name="req9" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">Date</label>
+            <input type="text" id="req10" name="req10" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label">Regex</label>
+            <input type="text" id="req11" name="req11" class="form-control" />
+        </div>
+
+        <button type="button" class="btn btn-block btn-primary">전송</button>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+    <script src="validate.js"></script>
+    <script>
+        $(document).ready(function () {
+                var literal = {
+    req1: { selector: $('#req1'), required: { message: 'Required Field.' } },
+    req2: { selector: $('#req2'), digit: { message: 'Must be a digit.' } },
+    req3: { selector: $('#req3'), length: { value: 3, message: 'Only 3 characters are allowed.' } },
+    req4: { selector: $('#req4'), from: { value: 3, message: 'At least 3 numbers.' } },
+    req5: { selector: $('#req5'), to: { value: 3, message: '3 numbers or less.' } },
+    req6: { selector: $('#req6'), range: { value: [5, 10], message: 'From 5 To 10.' } },
+    req7: { selector: $('#req7'), email: { message: 'Must be a valid email.' } },
+    req8: { selector: $('#req8'), mobile: { message: 'Must be a valid phone number.\nEX) 01012341234' } },
+    req9: { selector: $('#req9'), compare: { value: 'test', message: 'Must match the string: text.' } },
+    req10: { selector: $('#req10'), date: { message: 'Must be a valid date.\nEX) 2021-01-12' } },
+    req11: { selector: $('#req11'), regex: { value: /^[0-9]+$/, message: 'Custom validator using Regext.' } }
+};
+
+                var result = $.validate.rules(literal, { mode: 'bootstrap' });
+                console.log(result);
+        });
+    </script>
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+try {
+  fetch(new Request("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", { method: 'HEAD', mode: 'no-cors' })).then(function(response) {
+    return true;
+  }).catch(function(e) {
+    var carbonScript = document.createElement("script");
+    carbonScript.src = "//cdn.carbonads.com/carbon.js?serve=CK7DKKQU&placement=wwwjqueryscriptnet";
+    carbonScript.id = "_carbonads_js";
+    document.getElementById("carbon-block").appendChild(carbonScript);
+  });
+} catch (error) {
+  console.log(error);
+}
+</script>
+</body>
+</html>
